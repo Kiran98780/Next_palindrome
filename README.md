@@ -8,7 +8,7 @@ Next_Palindrome.java - This file implements the main driver method allowing the 
 Next_Palindrome_Method1.java - This file implements method 1 is a naive method where the count of the number is incremented by 1 to compute the palindrome. The complexity is O(N).\
 Next_Palindrome_Method2.java - This file implements method 2 has a log N complexity and considers 6 different cases for even and odd numbers.\
 The maximum number of digits that can have the next palindrome computed is 10.\
-In order to run the project, download the source code and open either using IntelliJ Idea IDE or terminal. Then build and run the code.\
+In order to run the project, download the source code and open either using IntelliJ Idea IDE or terminal. Then build and run the code.
 
 ### Build and Execution
 
